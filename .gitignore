@@ -1,0 +1,5 @@
+env
+config.py
+__pycache__
+ideas.txt
+command.wav
